@@ -1,4 +1,9 @@
 # ResumeAnalyzer-App-NLP-
+
+
+https://github.com/Nikitha1203/ResumeAnalyzer-App-NLP-/assets/109364397/f015314b-688b-46f4-87a6-714464836c80
+
+
 Overview
 The ResumeAnalyser app is a powerful Python application that leverages machine learning to streamline the resume screening process. With an impressive accuracy rate of approximately 98%, this app assists organizations in categorizing resumes based on job descriptions, facilitating efficient candidate selection.
 
